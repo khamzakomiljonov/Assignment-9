@@ -1,1 +1,1 @@
-# Assignment-9
+# Assignment 9 - This assignment involved using Pandas to load, clean, filter, and analyze sales data to uncover business insights. The objective was to learn how to evaluate performance, identify trends, handle missing data, and create data-driven recommendations.
